@@ -4,5 +4,14 @@ def sum(x,y):
 def substract(x,y):
     return x-y
 
+<<<<<<< HEAD
 def new(x,y,c):
     return x+y+c
+=======
+def multiply(x,y):
+    return x*y
+
+def greeting(x):
+    return x*2
+
+>>>>>>> test1
