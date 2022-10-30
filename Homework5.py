@@ -18,7 +18,7 @@ class Hotel_customer(Customer):
         return 'I book hotels.'
 
     def get_email(self):
-        return f"The cliant's email is {self.__email}"
+        return f"The client's email is {self.__email}"
 
     def set_email(self, n_email):
         self.__email = n_email
