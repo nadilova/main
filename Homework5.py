@@ -1,4 +1,3 @@
-#Homework #5
 class Customer:
     def __init__(self, id, name, lname, age):
         self.identidication = id
